@@ -6,6 +6,8 @@ const PREDEFINED_ANSWERS = {
   "super power": "/audio/superpower.mp3",
   "superpower": "/audio/superpower.mp3",
   "growth areas": "/audio/growth-areas.mp3",
+  "grow": "/audio/growth-areas.mp3",
+  "areas": "/audio/growth-areas.mp3",
   "misconception": "/audio/misunderstanding.mp3",
   "coworkers": "/audio/misunderstanding.mp3",
   "boundaries": "/audio/boundaries.mp3",
